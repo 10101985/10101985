@@ -26,11 +26,13 @@ intensiva en Cloud Computing (AWS) y DevOps.
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
+> 🚧 Portafolio en construcción — proyectos siendo desarrollados actualmente.
+
+| Proyecto | Descripción | Estado |
 |---|---|---|
-| [BancoPlatinum](https://github.com/10101985/BancoPlatinum) | Sistema bancario web | PHP, MySQL, HTML, CSS |
-| [myapp](https://github.com/10101985/myapp) | Aplicación web | JavaScript, HTML, CSS |
-| [retailoff](https://github.com/10101985/retailoff) | Sistema de retail | PHP, MySQL |
+| monitor-sistema-bash | Monitor de recursos Linux con reporte automático | 🔨 En desarrollo |
+| red-local-documentada | Red LAN virtualizada con VirtualBox y Linux | 📅 Próximamente |
+| web-portfolio-personal | Sitio web personal desplegado en internet | 📅 Próximamente |
 
 ---
 
