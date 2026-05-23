@@ -31,7 +31,7 @@ intensiva en Cloud Computing (AWS) y DevOps.
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | monitor-sistema-bash | Monitor de recursos Linux con reporte automático | 🔨 En desarrollo |
-| [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | 🔨 En desarrollo |
+| red-local-documentada | Red LAN virtualizada con VirtualBox y Linux | 📅 Próximamente |
 | web-portfolio-personal | Sitio web personal desplegado en internet | 📅 Próximamente |
 
 ---
@@ -39,8 +39,7 @@ intensiva en Cloud Computing (AWS) y DevOps.
 ## 📈 En formación activa
 
 - ☁️ AWS Cloud Practitioner — en curso
-- 🐧 Linux administración avanzada — en curso  
-- 🐳 Docker y contenedores — próximamente
+- 🐧 Linux administración avanzada — en curso - 🐳 Docker y contenedores — próximamente
 - 🔧 Terraform e infraestructura como código — próximamente
 
 ---
