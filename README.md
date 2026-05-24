@@ -30,8 +30,8 @@ intensiva en Cloud Computing (AWS) y DevOps.
 
 | Proyecto | Descripción | Estado |
 |---|---|---|
-| monitor-sistema-bash | Monitor de recursos Linux con reporte automático | 🔨 En desarrollo |
-| [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | 🔨 En desarrollo |
+| monitor-sistema-bash | Monitor de recursos Linux con reporte automático | ✅ Completado |
+| [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | ✅ Completado |
 | web-portfolio-personal | Sitio web personal desplegado en internet | 📅 Próximamente |
 
 ---
