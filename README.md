@@ -33,6 +33,7 @@ intensiva en Cloud Computing (AWS) y DevOps.
 | monitor-sistema-bash | Monitor de recursos Linux con reporte automático | ✅ Completado |
 | [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | ✅ Completado |
 | [aws-ec2-servidor](https://github.com/10101985/aws-ec2-servidor) | Servidor Ubuntu desplegado en AWS EC2 con AWS CLI | ✅ Completado |
+| [docker-web-app](https://github.com/10101985/docker-web-app) | Aplicación web en contenedor Docker con Nginx | ✅ Completado |
 | web-portfolio-personal | Sitio web personal desplegado en internet | 📅 Próxima Etapa |
 
 ---
