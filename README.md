@@ -35,6 +35,7 @@ intensiva en Cloud Computing (AWS) y DevOps.
 | [aws-ec2-servidor](https://github.com/10101985/aws-ec2-servidor) | Servidor Ubuntu desplegado en AWS EC2 con AWS CLI | ✅ Completado |
 | [docker-web-app](https://github.com/10101985/docker-web-app) | Aplicación web en contenedor Docker con Nginx | ✅ Completado |
 | [bash-automation-toolkit](https://github.com/10101985/bash-automation-toolkit) | Suite de scripts Bash para monitoreo, backup y análisis de logs | ✅ Completado |
+| [docker-compose-app](https://github.com/10101985/docker-compose-app) | Aplicación multi-contenedor con Nginx + MySQL usando Docker Compose | ✅ Completado |
 | [web-portfolio-personal](https://github.com/10101985/web-portfolio-personal) | Portfolio web personal desplegado en GitHub Pages | ✅ Completado |
 🌐 **Portfolio en vivo:** https://10101985.github.io/web-portfolio-personal
 ---
