@@ -34,6 +34,7 @@ intensiva en Cloud Computing (AWS) y DevOps.
 | [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | ✅ Completado |
 | [aws-ec2-servidor](https://github.com/10101985/aws-ec2-servidor) | Servidor Ubuntu desplegado en AWS EC2 con AWS CLI | ✅ Completado |
 | [docker-web-app](https://github.com/10101985/docker-web-app) | Aplicación web en contenedor Docker con Nginx | ✅ Completado |
+| [bash-automation-toolkit](https://github.com/10101985/bash-automation-toolkit) | Suite de scripts Bash para monitoreo, backup y análisis de logs | ✅ Completado |
 | [web-portfolio-personal](https://github.com/10101985/web-portfolio-personal) | Portfolio web personal desplegado en GitHub Pages | ✅ Completado |
 🌐 **Portfolio en vivo:** https://10101985.github.io/web-portfolio-personal
 ---
