@@ -1,15 +1,14 @@
+# Hola, soy Cristian Robledo Macleood 👋
 
-# Hola, soy Cristian Robledo Macleood👋
+### Ingeniero en Informática | Cloud & DevOps | Infraestructura TI
 
-### Ingeniero en Informática | Soporte TI & Infraestructura | Cloud en formación
-
-Soy ingeniero en informática titulado en IPLACEX (2025), con base técnica
-sólida en soporte, hardware, redes y electrónica. Actualmente en formación
-intensiva en Cloud Computing (AWS) y DevOps.
+Ingeniero en Informática titulado en IPLACEX (2025), con formación práctica en
+Cloud Computing AWS, contenedores Docker, administración Linux y redes.
+Busco mi primera oportunidad formal en TI donde aplicar conocimientos reales
+de infraestructura cloud y automatización.
 
 ---
 
-```md
 ## 🛠️ Tecnologías y herramientas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -18,17 +17,18 @@ intensiva en Cloud Computing (AWS) y DevOps.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 📂 Proyectos destacados
-
-> 🚧 Portafolio en construcción — proyectos siendo desarrollados actualmente.
 
 | Proyecto | Descripción | Estado |
 |---|---|---|
@@ -41,24 +41,23 @@ intensiva en Cloud Computing (AWS) y DevOps.
 | [aws-cloudwatch-monitoring](https://github.com/10101985/aws-cloudwatch-monitoring) | Monitoreo EC2 con CloudWatch Agent, IP Elástica y rol IAM | ✅ Completado |
 | [web-portfolio-personal](https://github.com/10101985/web-portfolio-personal) | Portfolio web personal desplegado con GitHub Pages | ✅ Completado |
 
-🌐 **Portfolio en vivo:**  
-https://10101985.github.io/web-portfolio-personal
+🌐 **Portfolio en vivo:** https://10101985.github.io/web-portfolio-personal
 
 ---
 
 ## 📈 En formación activa
 
 - ☁️ AWS Cloud Practitioner — en curso
-- 🐧 Linux administración avanzada — en curso
-- 🐳 Docker y contenedores — próximamente
+- 🐧 Linux & Bash avanzado — completado
+- 🐳 Docker & Docker Compose — completado
 - 🔧 Terraform e infraestructura como código — próximamente
+- 🔄 GitHub Actions CI/CD — próximamente
+- 🐍 Python para DevOps — próximamente
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-robledo-macleood-7538331b5/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristian.robledo.dev@gmail.com)
-```
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://10101985.github.io/web-portfolio-personal)
