@@ -40,6 +40,7 @@ de infraestructura cloud y automatización.
 | [docker-compose-app](https://github.com/10101985/docker-compose-app) | Aplicación multicontenedor con Nginx + MySQL usando Docker Compose | ✅ Completado |
 | [aws-cloudwatch-monitoring](https://github.com/10101985/aws-cloudwatch-monitoring) | Monitoreo EC2 con CloudWatch Agent, IP Elástica y rol IAM | ✅ Completado |
 | [terraform-aws-infra](https://github.com/10101985/terraform-aws-infra) | Infraestructura AWS como código con Terraform — EC2 y Security Group | ✅ Completado |
+| [github-actions-cicd](https://github.com/10101985/github-actions-cicd) | Pipeline CI/CD con GitHub Actions — validación y deploy automático | ✅ Completado |
 | [web-portfolio-personal](https://github.com/10101985/web-portfolio-personal) | Portfolio web personal desplegado con GitHub Pages | ✅ Completado |
 
 🌐 **Portfolio en vivo:** https://10101985.github.io/web-portfolio-personal
