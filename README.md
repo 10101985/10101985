@@ -41,6 +41,7 @@ de infraestructura cloud y automatización.
 | [aws-cloudwatch-monitoring](https://github.com/10101985/aws-cloudwatch-monitoring) | Monitoreo EC2 con CloudWatch Agent, IP Elástica y rol IAM | ✅ Completado |
 | [terraform-aws-infra](https://github.com/10101985/terraform-aws-infra) | Infraestructura AWS como código con Terraform — EC2 y Security Group | ✅ Completado |
 | [github-actions-cicd](https://github.com/10101985/github-actions-cicd) | Pipeline CI/CD con GitHub Actions — validación y deploy automático | ✅ Completado |
+| [python-devops-scripts](https://github.com/10101985/python-devops-scripts) | Scripts Python con boto3 para automatización AWS — EC2, S3, CloudWatch | ✅ Completado |
 | [web-portfolio-personal](https://github.com/10101985/web-portfolio-personal) | Portfolio web personal desplegado con GitHub Pages | ✅ Completado |
 
 🌐 **Portfolio en vivo:** https://10101985.github.io/web-portfolio-personal
