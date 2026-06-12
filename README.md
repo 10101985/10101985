@@ -32,6 +32,7 @@ de infraestructura cloud y automatización.
 
 | Proyecto | Descripción | Estado |
 |---|---|---|
+| [devops-full-stack](https://github.com/10101985/devops-full-stack) | 🌟 Proyecto Integrador — Terraform + Docker + CI/CD + CloudWatch + Python | ✅ Completado |
 | [monitor-sistema-bash](https://github.com/10101985/monitor-sistema-bash) | Monitor de recursos Linux con reportes y alertas automáticas | ✅ Completado |
 | [red-lan-virtualizada](https://github.com/10101985/red-lan-virtualizada) | Red LAN corporativa simulada con VirtualBox y Ubuntu Server | ✅ Completado |
 | [aws-ec2-servidor](https://github.com/10101985/aws-ec2-servidor) | Servidor Ubuntu desplegado en AWS EC2 usando AWS CLI | ✅ Completado |
