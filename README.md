@@ -49,14 +49,20 @@ de infraestructura cloud y automatización.
 
 ---
 
-## 📈 En formación activa
+## 📈 Ruta de Formación
 
-- ☁️ AWS Cloud Practitioner — en curso
-- 🐧 Linux & Bash avanzado — completado
-- 🐳 Docker & Docker Compose — completado
-- 🔧 Terraform e infraestructura como código — próximamente
-- 🔄 GitHub Actions CI/CD — próximamente
-- 🐍 Python para DevOps — próximamente
+Aplicando estos conocimientos en proyectos reales — en constante práctica y mejora:
+
+- 🐧 Linux & Bash — administración, scripting, automatización
+- 🐳 Docker & Docker Compose — contenedores y orquestación
+- ☁️ AWS — EC2, S3, IAM, CloudWatch, IP Elástica
+- 🏗️ Terraform — Infraestructura como código (IaC)
+- 🔄 GitHub Actions — CI/CD y despliegue automático
+- 🐍 Python — automatización con boto3
+
+## 🎯 Próximo objetivo
+
+- Certificación AWS Cloud Practitioner
 
 ---
 
